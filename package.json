@@ -1,0 +1,11 @@
+{
+  "name": "Webpack4-tapable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lydiali9/Webpack4-tapable.git",
+  "author": "lydiali9 <648823000@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^1.1.3"
+  }
+}
